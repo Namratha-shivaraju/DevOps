@@ -2,6 +2,8 @@ ANSIBLE GIT EXAMPLE
 
 Referred article: https://www.middlewareinventory.com/blog/ansible-git-example/
 
+NOTE - Generate a personal access token
+
 STEP 1-
 
 Install Ansible 
