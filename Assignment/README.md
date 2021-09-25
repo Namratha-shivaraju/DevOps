@@ -6,7 +6,7 @@
 
 ## 2) Ansible Playbook Exercise
 
-### https://www.middle wareinventory.com/blog/ansible-git-example/
+### https://www.middlewareinventory.com/blog/ansible-git-example/
 
 ## 3) Add users to EC2 instances with SSH Access – Ansible
 
