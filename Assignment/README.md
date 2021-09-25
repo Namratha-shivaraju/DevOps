@@ -1,4 +1,4 @@
-# DevOps Elective Assignemtns
+# DevOps Elective Assignments
 
 ## 1) Developing and deploying a Node.js app from Docker to Kubernetes
 
