@@ -11,3 +11,5 @@ Refer pdf - Assignment-1-18CS083
 ### Jenkins master slave pipeline
 
 Refer pdf - Assignment 2-18BCS083
+
+## Open Team_5_Devops_Jenkins_Assginments.pdf for complete group assignment report
